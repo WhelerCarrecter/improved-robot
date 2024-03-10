@@ -1,0 +1,26 @@
+{
+  "name": "improved-robot",
+  "version": "1.0.0",
+  "description": "Naplan assisting finding average Practice test",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "improved-robot": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WhelerCarrecter/improved-robot.git"
+  },
+  "homepage": "https://twitter.com/MariaPatri87797",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "WhelerCarrecter",
+  "license": "MIT"
+}
